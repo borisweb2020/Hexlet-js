@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "creating new nmp-project",
   "main": "index.js",
-  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -16,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/borisweb2020/Hexlet-js/issues"
   },
-  "homepage": "https://github.com/borisweb2020/Hexlet-js#readme"
+  "homepage": "https://github.com/borisweb2020/Hexlet-js#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
